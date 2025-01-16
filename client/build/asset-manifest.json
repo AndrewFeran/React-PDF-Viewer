@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce4c5846.css",
+    "main.js": "/static/js/main.1051837f.js",
+    "static/media/lake-in-autumn.webp": "/static/media/lake-in-autumn.f69d63feeab074146ca7.webp",
+    "index.html": "/index.html",
+    "main.ce4c5846.css.map": "/static/css/main.ce4c5846.css.map",
+    "main.1051837f.js.map": "/static/js/main.1051837f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce4c5846.css",
+    "static/js/main.1051837f.js"
+  ]
+}

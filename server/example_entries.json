@@ -1,0 +1,17 @@
+[
+    {
+      "file": "Music+Appreciation+-+Introduction+to+Music+Appreciation.pdf",
+      "name": "Introduction to Music Appreciation",
+      "weight": "10"
+    },
+    {
+      "file": "Music+Appreciation+-+Renaissance+Music+-+Historical-Cultural+Setting.pdf",
+      "name": "Renaissance Music - Historical-Cultural Setting",
+      "weight": "20"
+    },
+    {
+      "file": "Music+Appreciation+-+Renaissance+Music+-+Musical+Setting.pdf",
+      "name": "Renaissance Music - Musical Setting",
+      "weight": "30"
+    }
+]
